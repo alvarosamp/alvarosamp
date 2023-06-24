@@ -10,8 +10,8 @@
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alvarosamp&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Álvaro Sampaio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarosamp&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alvarosamp&show_icons=true&count_private=true&hide_border=true&title_color=6495ED&icon_color=6495ED&text_color=c9d1d9&bg_color=0d1117" alt="Álvaro Sampaio github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarosamp&layout=compact&hide_border=true&title_color=6495ED&text_color=6495ED&bg_color=0d1117" />
 </div>
 
 <div align="center"> 
@@ -21,11 +21,11 @@
  </div>
 
  ### Main skills:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-4169E1?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=C++&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Arduino](https://img.shields.io/badge/-Arduino-0D1117?style=for-the-badge&logo=Arduino&logoColor=purple&labelColor=0D1117)&nbsp; 
+![C++](https://img.shields.io/badge/-C++-1E90FF?style=for-the-badge&logo=C++&labelColor=1E90FF)&nbsp;
+![C](https://img.shields.io/badge/-C-191970?style=for-the-badge&logo=C&logoColor=White&labelColor=191970)&nbsp; 
+![Arduino](https://img.shields.io/badge/-Arduino-87CEFA?style=for-the-badge&logo=Arduino&logoColor=white&labelColor=87CEFA)&nbsp; 
 
 ### Studying in this moment:
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
